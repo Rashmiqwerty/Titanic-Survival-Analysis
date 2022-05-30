@@ -4,10 +4,9 @@ Analysis of Titanic Survival data using Power BI Tool
 Project Description:
 
 Project is answer to simple and forthright analysis of Titanic Survival data.
-
 Using this data, anyone can get to know about the survival rate of people after sinking of RMS Titanic ship. 
 
-The project address the need to know and filter the passengers based on their passenger class and age. 
+The project address the need to know and filter the passengers on the ship based on their passenger class and age. 
 
 We can know the count of survival and survival rate by gender and survived, count of survived and survival rate by passenger class and survived, survival rate by age and gender, counter of survival and survival rate by embarked and survived.
 
